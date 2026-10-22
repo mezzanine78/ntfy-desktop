@@ -12,6 +12,8 @@
 
 A Windows desktop client for [ntfy](https://ntfy.sh) — subscribe to topics across one or more servers, receive Windows toast notifications, and browse your message history from the system tray.
 
+> **Fork note:** this is a fork of [simoneferrari/ntfy-desktop](https://github.com/simoneferrari/ntfy-desktop). It adds a step-by-step [Windows 11 install guide for self-hosted servers with an access token](INSTALL-Windows.md). Download builds from the [upstream releases](https://github.com/simoneferrari/ntfy-desktop/releases/latest).
+
 > **Status:** early pre-release (v0.x). Functional and in daily use, but the API surface and data formats may still change.
 
 ## Screenshots
